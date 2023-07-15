@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perigor&label=Profile%20views&color=0e75b6&style=flat" alt="perigor" /> </p>
 
-- 👨‍💻 Atualmente estou estudando **Power Python, BI, e SQL**
+- 👨‍💻 Atualmente estou estudando **Python, Machine Learning, SQL, Power BI, Excel**
 
 - 👯 Busco colaborar em conteúdos de **BI e Ciência de Dados**
 

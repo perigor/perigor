@@ -9,7 +9,7 @@
 
 - 📫 Fale comigo em **igorpereira_ac @hotmail.com**
 
-- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/igor-pereira-42979554/](https://www.linkedin.com/in/igor-pereira-42979554/)
+- 📄 Saiba mais sobre mim //www.linkedin.com/in/perigor/
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

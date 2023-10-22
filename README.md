@@ -1,11 +1,11 @@
 <h1 align="center">Olá 👋, sou Igor Pereira</h1>
-<h3 align="center">Profissional em transição de carreira, da indústria para área de Dados, atualmente estou fazendo uma formação em Análise de Dados e Ciência de Dados.</h3>
+<h3 align="center">Profissional em transição de carreira, oriundo da manutenção industrial para área de Dados, atualmente estou fazendo uma formação em técnica em Data Science e MBA em Análise de Negócios.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perigor&label=Profile%20views&color=0e75b6&style=flat" alt="perigor" /> </p>
 
 - 👨‍💻 Atualmente estou estudando **Python, Machine Learning, SQL, Power BI, Excel**
 
-- 👯 Busco colaborar em conteúdos de **BI e Ciência de Dados**
+- 👯 Busco colaborar em conteúdos de **BI e Data Science**
 
 - 📫 Fale comigo em **igorpereira_ac @hotmail.com**
 

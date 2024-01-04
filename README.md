@@ -16,6 +16,13 @@
 
 - 📄 Saiba mais sobre mim https://www.linkedin.com/in/perigor/
 
+👨🏽‍🎓​  **Formação**
+
+- Superior em Gestão Industrial - Universidade Luterana do Brasil
+- Técnico em Mecânica Preditiva - Senai-RS
+- Técnico em Automação - Senai-RS
+- Técnico em Data Science - DNC Group
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://instagram.com/_perigor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="_perigor" height="30" width="40" /></a>

@@ -5,7 +5,7 @@
 
 🚀 Aqui, você encontrará projetos e códigos relacionados ao meu estudo na busca da migração de área , explorando a integração de Data Analytics na Manutenção Industrial e em outras áreas de estudo.
 
-📚 Sinta-se à vontade para explorar, contribuir e, se tiver alguma pergunta ou sugestão, estou sempre aberto a discussões construtivas. Vamos juntos impulsionar a inovação na manutenção industrial!
+📚 Sinta-se à vontade para explorar, contribuir e, se tiver alguma pergunta ou sugestão, estou sempre aberto a discussões construtivas. Vamos juntos impulsionar a cultura Data Driven!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perigor&label=Profile%20views&color=0e75b6&style=flat" alt="perigor" /> </p>
 
 - 👨‍💻 Atualmente estou estudando **Python, Machine Learning, SQL, Power BI, Excel**

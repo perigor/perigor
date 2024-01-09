@@ -1,9 +1,9 @@
 <h1 align="center">Olá, sou Igor Pereira🙋</h1>
 
 
-🛠️ Sou um Analista de Manutenção Industrial Sênior, entusiasta da cultura data driven na industria. Este repositório reflete minha jornada e aprendizados, como estudante de **Data Science**
+🛠️ Sou um Analista de Manutenção Industrial Sênior, entusiasta da cultura data driven na industria. Este repositório reflete minha jornada e aprendizados, como estudante de **Data Science** e **Data Analytics**.
 
-🚀 Aqui, você encontrará projetos e códigos relacionados ao meu estudo na busca da migração de área , explorando a integração de Data Analytics na Manutenção Industrial e em outras áreas de estudo.
+🚀 Aqui, você encontrará projetos e códigos relacionados ao meu estudo na busca da migração de área de dados , explorando a integração de Data Analytics na Manutenção Industrial e em outras áreas de estudo.
 
 📚 Sinta-se à vontade para explorar, contribuir e, se tiver alguma pergunta ou sugestão, estou sempre aberto a discussões construtivas. Vamos juntos impulsionar a cultura Data Driven!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perigor&label=Profile%20views&color=0e75b6&style=flat" alt="perigor" /> </p>

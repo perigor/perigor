@@ -10,7 +10,7 @@
 
 - 👨‍💻 Atualmente estou estudando **Python, Machine Learning, SQL, Power BI, Excel**
 
-- 👯 Busco colaborar em conteúdos de **BI e Data Science**
+- 👯 Busco colaborar em conteúdos de **BI, Analise de Dados e Engenharia de Dados**
 
 - 📫 Fale comigo em **igorpereira_ac @hotmail.com**
 
